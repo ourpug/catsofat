@@ -1,0 +1,16 @@
+C:\Users\jojo\Desktop\vscode2練習1\bin\Debug\net5.0\對照擺放.exe
+C:\Users\jojo\Desktop\vscode2練習1\bin\Debug\net5.0\對照擺放.deps.json
+C:\Users\jojo\Desktop\vscode2練習1\bin\Debug\net5.0\對照擺放.runtimeconfig.json
+C:\Users\jojo\Desktop\vscode2練習1\bin\Debug\net5.0\對照擺放.runtimeconfig.dev.json
+C:\Users\jojo\Desktop\vscode2練習1\bin\Debug\net5.0\對照擺放.dll
+C:\Users\jojo\Desktop\vscode2練習1\bin\Debug\net5.0\ref\對照擺放.dll
+C:\Users\jojo\Desktop\vscode2練習1\bin\Debug\net5.0\對照擺放.pdb
+C:\Users\jojo\Desktop\vscode2練習1\obj\Debug\net5.0\對照擺放.csprojAssemblyReference.cache
+C:\Users\jojo\Desktop\vscode2練習1\obj\Debug\net5.0\對照擺放.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jojo\Desktop\vscode2練習1\obj\Debug\net5.0\對照擺放.AssemblyInfoInputs.cache
+C:\Users\jojo\Desktop\vscode2練習1\obj\Debug\net5.0\對照擺放.AssemblyInfo.cs
+C:\Users\jojo\Desktop\vscode2練習1\obj\Debug\net5.0\對照擺放.csproj.CoreCompileInputs.cache
+C:\Users\jojo\Desktop\vscode2練習1\obj\Debug\net5.0\對照擺放.dll
+C:\Users\jojo\Desktop\vscode2練習1\obj\Debug\net5.0\ref\對照擺放.dll
+C:\Users\jojo\Desktop\vscode2練習1\obj\Debug\net5.0\對照擺放.pdb
+C:\Users\jojo\Desktop\vscode2練習1\obj\Debug\net5.0\對照擺放.genruntimeconfig.cache
